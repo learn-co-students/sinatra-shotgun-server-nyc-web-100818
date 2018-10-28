@@ -3,6 +3,7 @@ source "https://rubygems.org"
 
 # gem "rails"
 
+gem 'shotgun'
 gem 'sinatra'
 gem 'rake'
 gem 'thin'
